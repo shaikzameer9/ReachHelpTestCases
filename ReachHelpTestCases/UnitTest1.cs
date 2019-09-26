@@ -309,7 +309,7 @@ namespace ReachHelpTestCases
 
 
         }
-        [Test]
+       /* [Test]
         public void TestMethod7()
         {
             IWebDriver driver = new ChromeDriver();
@@ -405,7 +405,7 @@ namespace ReachHelpTestCases
 
 
 
-        }
+        }*/
         [Test]
         public void TestMethod8()
         {
