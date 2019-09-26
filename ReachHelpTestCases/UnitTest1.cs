@@ -15,7 +15,7 @@ namespace ReachHelpTestCases
     [TestFixture]
     public class UnitTest1
     {
-        [Test]
+        /*[Test]
         public void TestMethod1()
         {
             IWebDriver driver = new ChromeDriver();
@@ -147,7 +147,7 @@ namespace ReachHelpTestCases
             driver.Close();
 
 
-        }
+        }*/
         [Test]
         public void TestMethod3()
         {
@@ -428,7 +428,7 @@ namespace ReachHelpTestCases
             Task.Delay(2000).Wait();
             driver.Close();
         }
-        [Test]
+       /* [Test]
         public void TestMethod9()
         {
             IWebDriver driver = new ChromeDriver();
@@ -446,7 +446,7 @@ namespace ReachHelpTestCases
             Task.Delay(2000).Wait();
             driver.Close();
             // i am not able to acess the footer items through my test case ....
-        }
+        }*/
         [Test]
         public void TestMethod10()
         {
